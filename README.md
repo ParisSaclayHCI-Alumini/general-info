@@ -28,6 +28,7 @@ IMPORTANT:
 Students must commit to attending courses until the end of the semester, even if they do not have ECTS credits for the course 
 They must be able to attend all classes and pass all tests (CC).
 
-# sport
+# sports
 https://sports.universite-paris-saclay.fr/
 
+You can only select UE sports (for credit) after your support documents verified.
