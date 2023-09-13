@@ -1,6 +1,10 @@
 # general-info
 Useful information and links 
 
+The official HCI website
+
+https://sites.google.com/view/master-hcid-hci/accueil
+
 # Registration
 https://www.universite-paris-saclay.fr/en/information-registration
 
