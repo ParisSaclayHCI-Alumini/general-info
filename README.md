@@ -1,7 +1,7 @@
 # general-info
 Useful information and links 
 
-# fle
+# FLE
 https://www.sciences.universite-paris-saclay.fr/french-foreign-language
 
 FLE (= FLE Pluriel) is en extensive course, opent to all level, during the first semester.
