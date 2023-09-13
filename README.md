@@ -1,9 +1,13 @@
 # general-info
 Useful information and links 
 
-The official HCI website
+### The official HCI website
 
 https://sites.google.com/view/master-hcid-hci/accueil
+
+### Course Schedule
+
+https://sites.google.com/view/mastersagenda/hci
 
 # Registration
 https://www.universite-paris-saclay.fr/en/information-registration
