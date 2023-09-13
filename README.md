@@ -1,6 +1,11 @@
 # general-info
 Useful information and links 
 
+# Registration
+https://www.universite-paris-saclay.fr/en/information-registration
+
+Notice: the system will shut down normally around the end of July and re-open at the end of the August.
+
 # FLE
 https://www.sciences.universite-paris-saclay.fr/french-foreign-language
 
