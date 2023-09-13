@@ -9,6 +9,10 @@ https://sites.google.com/view/master-hcid-hci/accueil
 
 https://sites.google.com/view/mastersagenda/hci
 
+### Telecom Classes
+
+https://diva.telecom-paristech.fr/igd/allcourses.html
+
 # Registration
 https://www.universite-paris-saclay.fr/en/information-registration
 
