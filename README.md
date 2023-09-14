@@ -36,3 +36,10 @@ They must be able to attend all classes and pass all tests (CC).
 https://sports.universite-paris-saclay.fr/
 
 You can only select UE sports (for credit) after your support documents verified.
+
+# Other Languages
+### The Language Department 
+https://www.sciences.universite-paris-saclay.fr/formation/language-department
+
+### Second Language Info
+https://www.sciences.universite-paris-saclay.fr/learning-second-language-other-english
