@@ -33,9 +33,11 @@ Students must commit to attending courses until the end of the semester, even if
 They must be able to attend all classes and pass all tests (CC).
 
 # sports
-https://sports.universite-paris-saclay.fr/
+Sports Registration website: https://sports.universite-paris-saclay.fr/
 
 You can only select UE sports (for credit) after your support documents verified.
+
+Official sports intro page: https://www.universite-paris-saclay.fr/vie-de-campus/le-sport-sur-les-campus-de-paris-saclay
 
 # Other Languages
 ### The Language Department 
